@@ -1,0 +1,26 @@
+participant;;screenWidth;screenHeight;OS;OS_lang;GMT_timestamp;local_timestamp;trial_file_version;link;duration_s;;;;;;;;;
+jennifer;;1504;1003;Windows;en-US;2025-09-17_12:59:06;2025-09-17_09:59:06;2025-09-17_02:12:08;https://www.testable.org/experiment/17633/773745/start;119.62;;;;;;;;;
+jennifer;;stim1;stimFormat;pageName;responseType;audio;key;button1;button2;button3;keyboard;head;ITI_ms;timestamp;response;responseText;RT;correct;responseCode
+jennifer;;;survey;Antes de comenzar, por favor responde la pregunta solicitada;box;;a;CONTINUAR;;;;Escribe tus iniciales en la siguiente casilla;;21239;jennifer;;6840;0;NA
+jennifer;;image5;.png;;;Audio 9.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;65210;2;POSIBLE;2957;0;
+jennifer;;image6;.png;;;Audio 10.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;67863;2;POSIBLE;2626;0;
+jennifer;;image7;.png;;;Audio 11.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;70634;2;POSIBLE;2708;0;
+jennifer;;image8;.png;;;Audio 12.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;72682;1;RARO;2015;0;
+jennifer;;image9;.png;;;Audio 13.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;75070;3;NATURAL;2361;0;
+jennifer;;image10;.png;;;Audio 14.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;77821;1;RARO;2727;0;
+jennifer;;image11;.png;;;Audio 15.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;80351;3;NATURAL;2508;0;
+jennifer;;image12;.png;;;Audio 16.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;82954;3;NATURAL;2571;0;
+jennifer;;image13;.png;;;Audio 17.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;85191;2;POSIBLE;2210;0;
+jennifer;;image14;.png;;;Audio 18.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;87877;3;NATURAL;2662;0;
+jennifer;;image15;.png;;;Audio 19.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;90965;1;RARO;3061;0;
+jennifer;;image16;.png;;;Audio 20.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;93494;3;NATURAL;2503;0;
+jennifer;;image17;.png;;;Audio 21.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;96316;2;POSIBLE;2797;0;
+jennifer;;image18;.png;;;Audio 22.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;99072;3;NATURAL;2733;0;
+jennifer;;image19;.png;;;Audio 23.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;101405;1;RARO;2308;0;
+jennifer;;image20;.png;;;Audio 24.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;103965;3;NATURAL;2535;0;
+jennifer;;image21;.png;;;Audio 25.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;106550;2;POSIBLE;2561;0;
+jennifer;;image22;.png;;;Audio 26.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;109471;3;NATURAL;2898;0;
+jennifer;;image23;.png;;;Audio 27.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;111817;2;POSIBLE;2322;0;
+jennifer;;image24;.png;;;Audio 28.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;115015;3;NATURAL;3174;0;
+jennifer;;image25;.png;;;Audio 29.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;117318;1;RARO;2277;0;
+jennifer;;image26;.png;;;Audio 30.mp3;a;RARO;POSIBLE;NATURAL;a s d;;;119620;2;POSIBLE;2278;0;
